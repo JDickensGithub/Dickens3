@@ -3,3 +3,4 @@
 library(tidyverse)
 head(mpg)
 summary(mpg$displ)
+nrow(mpg)
